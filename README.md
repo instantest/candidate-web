@@ -1,2 +1,2 @@
-# candidate-web
-Candidate web client application
+# Instantest: Candidate Web Client
+Candidate web client application.
